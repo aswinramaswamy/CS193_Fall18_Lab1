@@ -1,7 +1,7 @@
 
 # Aswin Ramaswamy's first CS193 Lab
 
-- Labs
+- Knowledge
 - Interactions
 - The TAs :D
 
